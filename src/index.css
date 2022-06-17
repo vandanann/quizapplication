@@ -1,17 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Pompiere&display=swap');
 
 body {
-  background: #f5f9ee;
-  background-size:cover;
+  background-image: url('/src/Images/bg.png');
+  width: 100%;
+  background-position: center;
+  background-size: cover;
   
-  font-size: 36px;
-  font-family: 'Pompiere', cursive;
+  font-size: 27px;
+  font-family: 'Dubai';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   display: flex;
   justify-content: center;
   align-items: center;
-  color:#5f6caf;
+  color:white;
   
 }
 

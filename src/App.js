@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-
 export default function App() {
 	const questions = [
 		{
@@ -108,11 +107,12 @@ export default function App() {
     return (
 
 
-        <div class="w3-container w3-card w3-white w3-round w3-margin">
+		<div>
 			<br/>
           <strong>MSQ on Environment and Resources </strong>
 		   <br/>
 		   <br/>
+		   
             {showScore ? (
                 <div className='score-section'>
                     You scored {score} out of {questions.length} 
