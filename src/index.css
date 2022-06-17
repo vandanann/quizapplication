@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Pompiere&display=swap');
+
+body {
+  background: #f5f9ee;
+  background-size:cover;
+  
+  font-size: 36px;
+  font-family: 'Pompiere', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:#5f6caf;
+  
+}
+
+ul{
+  margin-top: 0px;
+}
+
+
